@@ -1,0 +1,5 @@
+package soa.Controller;
+
+public class AuthController {
+
+}
